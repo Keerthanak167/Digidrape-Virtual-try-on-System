@@ -17,7 +17,7 @@ To get the website up and running on your machine, you will need [XAMPP](https:/
 6. You might need to provide the root user password in the `functions.php` and `db.php` in `mysqli_connect()` if you have already mySQL installed on your machine.
 7. Type in the browser url bar
    ```python 
-   localhost/Ecommerce-Clothing-Website
+   localhost/Digidrape-Virtual-try-on-System
    ```
    Congrats! The Website is live on your machine.
 
